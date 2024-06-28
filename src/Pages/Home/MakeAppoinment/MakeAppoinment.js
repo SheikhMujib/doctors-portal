@@ -13,10 +13,10 @@ const MakeAppoinment = () => {
     }
     >
       <div className="hero">
-        <div className="hero-content flex-col lg:flex-row">
+        <div className="hero-content flex-col lg:flex-row pb-0">
           <img
             src={doctor}
-            className="-mt-32 hidden md:block lg:w-1/2 rounded-lg shadow-2xl"
+            className="-mt-36 hidden md:block lg:w-1/2 rounded-lg shadow-2xl"
             alt="appoinment"
           />
           <div>
